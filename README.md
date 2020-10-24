@@ -1,6 +1,12 @@
 # ExaTermSU
 ExaGear Terminal Emulator SuperUser
 
+Watch
+
+https://youtu.be/DNg_fCgSKpA
+
+https://youtu.be/F6Eqtvwq1vs
+
 Original Idea by GFOXSH
 
 https://4pda.ru/forum/index.php?showtopic=992239&st=900#entry97859358
