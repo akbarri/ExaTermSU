@@ -1,5 +1,6 @@
 # ExaTermSU
 [DEPRECATED PROJECT]
+
 ExaGear Terminal Emulator SuperUser
 
 Use ExaTermV2 instead
