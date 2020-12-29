@@ -1,5 +1,10 @@
 # ExaTermSU
+[DEPRECATED PROJECT]
 ExaGear Terminal Emulator SuperUser
+
+Use ExaTermV2 instead
+
+https://github.com/akbarri/ExaTermV2
 
 Watch
 
